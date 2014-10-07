@@ -1,7 +1,11 @@
 /* Your Website Styles */
-
+h1{
+	font-family: 'Oswald';
+	color:	#AD782E;
+}
 
 /* Show Grid */
 .showgrid {
 	background: url("../img/grid-bg.png") repeat-y;
+
 }
