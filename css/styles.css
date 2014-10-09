@@ -1,6 +1,6 @@
 /* Your Website Styles */
 body{
-	background: url("../img/bg.png") ;
+	background: url("../img/stardust.png") ;
 }
 h1{
 	font-family: 'Oswald';
@@ -17,6 +17,18 @@ h1{
 p{
 	line-height: 36px;
 	color: #2BA180;
+}
+h3{
+	color: red;
+}
+
+#leadin{
+	color: white;
+	background: blue;
+}
+.subhead{
+	font-style: italic;
+	margin-left: 30px;
 }
 
 /* Show Grid */
